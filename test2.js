@@ -1,1 +1,1 @@
-console.log("just to check from the visual studio code")
+console.log("just to check deletion")
